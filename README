@@ -1,0 +1,7 @@
+Created By: Robin Singh [irobinsingh@yahoo.com]
+
+USAGE: [RomanNumeral] [RomanNumeral] <enter>
+    ex] XIV CVI
+
+This project was created using Intellij IDEA, and Java jdk 8.
+The input is case sensitive, and the maximum representable value is 4999.
